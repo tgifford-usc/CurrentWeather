@@ -1,0 +1,26 @@
+.main-container {
+    max-width: 72em;
+    font-family: monospace;
+}
+
+.data-results {
+    background-color: aliceblue;
+}
+
+.control-panel {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin: 16px;
+}
+
+.text-input-panel {
+    display: flex;
+    flex-direction: column;
+    padding: 0.25em;
+}
+
+.coordinateInput {
+    width: 8em;
+    padding: 0.25em;
+}
