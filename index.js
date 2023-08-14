@@ -1,7 +1,6 @@
 // make variables for the html elements
 const latitudeInput = document.getElementById("latitudeInput");
 const longitudeInput = document.getElementById("longitudeInput");
-const forecastButton = document.getElementById("forecastButton");
 const getCoordinatesButton = document.getElementById("getCoordinatesButton");
 const dataPlotArea = document.getElementById("dataPlot");
 const dataResultArea = document.getElementById("mainResults");
